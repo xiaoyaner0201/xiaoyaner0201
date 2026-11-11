@@ -4,7 +4,7 @@
 <text x="48" y="120" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" fill="#7d6d89">merged PRs</text>
 <text x="200" y="92" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="44" font-weight="700" fill="#9b6fb3">13</text>
 <text x="200" y="120" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" fill="#7d6d89">projects</text>
-<text x="352" y="92" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="44" font-weight="700" fill="#9b6fb3">32</text>
+<text x="352" y="92" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="44" font-weight="700" fill="#9b6fb3">31</text>
 <text x="352" y="120" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" fill="#7d6d89">open, in review</text>
 <text x="48" y="196" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#7d6d89">Pull requests to projects I don't own.</text>
 <text x="48" y="220" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#7d6d89">在别人的项目里被合并的 PR · 每天从 GitHub API 刷新</text>
