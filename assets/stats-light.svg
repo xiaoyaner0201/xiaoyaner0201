@@ -4,13 +4,13 @@
 <text x="48" y="120" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" fill="#7d6d89">merged PRs</text>
 <text x="200" y="92" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="44" font-weight="700" fill="#9b6fb3">13</text>
 <text x="200" y="120" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" fill="#7d6d89">projects</text>
-<text x="352" y="92" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="44" font-weight="700" fill="#9b6fb3">32</text>
+<text x="352" y="92" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="44" font-weight="700" fill="#9b6fb3">34</text>
 <text x="352" y="120" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" fill="#7d6d89">open, in review</text>
 <text x="48" y="196" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#7d6d89">Pull requests to projects I don't own.</text>
 <text x="48" y="220" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#7d6d89">在别人的项目里被合并的 PR · 每天从 GitHub API 刷新</text>
 <path d="M520 36 V264" stroke="#ead9ee" stroke-width="2"/>
 <text x="552" y="58" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#3b2f45">cheaper-inference/OmniRoute</text>
-<text x="552" y="75" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="12" fill="#7d6d89">★ 86.7k</text>
+<text x="552" y="75" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="12" fill="#7d6d89">★ 87k</text>
 <rect x="830" y="46" width="110" height="14" rx="7" fill="#e9d8f1"/>
 <text x="948" y="58" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" font-weight="600" fill="#9b6fb3">75</text>
 <text x="552" y="96" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#3b2f45">iflytek/skillhub</text>
@@ -18,11 +18,11 @@
 <rect x="830" y="84" width="31" height="14" rx="7" fill="#e9d8f1"/>
 <text x="869" y="96" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" font-weight="600" fill="#9b6fb3">6</text>
 <text x="552" y="134" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#3b2f45">NousResearch/hermes-agent</text>
-<text x="552" y="151" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="12" fill="#7d6d89">★ 262.8k</text>
+<text x="552" y="151" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="12" fill="#7d6d89">★ 263.1k</text>
 <rect x="830" y="122" width="17" height="14" rx="7" fill="#e9d8f1"/>
 <text x="855" y="134" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" font-weight="600" fill="#9b6fb3">2</text>
 <text x="552" y="172" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#3b2f45">multica-ai/multica</text>
-<text x="552" y="189" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="12" fill="#7d6d89">★ 55.8k</text>
+<text x="552" y="189" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="12" fill="#7d6d89">★ 56k</text>
 <rect x="830" y="160" width="17" height="14" rx="7" fill="#e9d8f1"/>
 <text x="855" y="172" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="14" font-weight="600" fill="#9b6fb3">2</text>
 <text x="552" y="210" font-family="-apple-system,Segoe UI,PingFang SC,Microsoft YaHei,sans-serif" font-size="15" fill="#3b2f45">JimLiu/baoyu-skills</text>
