@@ -1,37 +1,37 @@
 {
   "merged_upstream": 103,
   "repos": 13,
-  "open_upstream": 31,
+  "open_upstream": 33,
   "top": [
     {
       "repo": "cheaper-inference/OmniRoute",
       "merged": 75,
-      "stars": 87883
+      "stars": 88216
     },
     {
       "repo": "iflytek/skillhub",
       "merged": 8,
-      "stars": 5431
+      "stars": 5435
     },
     {
       "repo": "multica-ai/multica",
       "merged": 5,
-      "stars": 56280
+      "stars": 56426
     },
     {
       "repo": "NousResearch/hermes-agent",
       "merged": 2,
-      "stars": 263723
+      "stars": 264030
     },
     {
       "repo": "JimLiu/baoyu-skills",
       "merged": 2,
-      "stars": 27588
+      "stars": 27630
     },
     {
       "repo": "shaongitbd/doory",
       "merged": 2,
-      "stars": 2750
+      "stars": 2764
     }
   ]
 }
